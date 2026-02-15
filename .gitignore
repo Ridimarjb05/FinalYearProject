@@ -1,0 +1,12 @@
+node_modules/
+.env
+dist/
+build/
+*.log
+.DS_Store
+frontend/node_modules/
+backend/node_modules/
+frontend/dist/
+backend/dist/
+lint_output.txt
+lint_results.txt
